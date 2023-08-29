@@ -1,17 +1,17 @@
 #shellComands #cmd #powershell
 
-# Directorios
+## Carpetas y archivos
 
 - `ls`
-  Listado de directorios y ficheros en l directorio actual de la terminal.
+  Listado de carpetas y archivos dentro de la carpeta actual de la terminal.
 - `pwd`
   Mostrar ruta actual de la terminal.
 - `cd`
-  Navegación entre directorios desde la terminal.
-  1. `cd [Nombre del directorio]`
-     Entrar al directorio con ese nombre especifico, siempre y cuando este se encuentre dentro del directorio actual.
+  Navegación entre carpetas desde la terminal.
+  1. `cd [Nombre de la carpeta]`
+     Entrar a la carpeta con ese nombre especifico, siempre y cuando este se encuentre dentro de la carpeta actual.
   2. `cd ..`
-     Salir del directorio actual (Te lleva al nivel superior)
+     Salir de la carpeta actual (Te lleva al nivel superior)
 - `mkdir '[Nombre del directorio]'`
   Crea una carpeta vacía dentro del directorio actual.
 - `echo > '[Nombre del archivo]'`
@@ -26,6 +26,6 @@
 ## Extra
 
 - `code .`
-  Abrir Visual Studio Code en el directorio actual.
+  Abrir Visual Studio Code en la carpeta actual.
 - `subl .`
-  Abrir Sublime Text en del directorio actual.
+  Abrir Sublime Text en la carpeta actual.
