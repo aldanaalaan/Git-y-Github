@@ -1,4 +1,4 @@
-#shellComands #cmd #powershell
+#shellComands #cmd #powershell #windows
 
 ## Carpetas y archivos
 
@@ -13,13 +13,13 @@
   2. `cd ..`
      Salir de la carpeta actual (Te lleva al nivel superior)
 - `mkdir '[Nombre del directorio]'`
-  Crea una carpeta vacía dentro del directorio actual.
+  Crea una carpeta vacía dentro de la carpeta actual.
 - `echo > '[Nombre del archivo]'`
-  Crea un archivo con el nombre indicado dentro del directorio actual.
+  Crea un archivo con el nombre indicado dentro de la carpeta actual.
 - `Remove-item '[Nombre de archivo/carpeta]'`
-  Elimina el archivo o carpeta especificado del directorio actual.
+  Elimina el archivo o carpeta especificado de la carpeta actual.
 - `Invoke-Item .`
-  Abrir el explorador de archivos en el directorio actual.
+  Abrir el explorador de archivos en la carpeta actual.
 - `clear` | `cls`
   Limpiar la terminal.
 
