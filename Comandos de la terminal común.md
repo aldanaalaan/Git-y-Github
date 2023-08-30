@@ -15,10 +15,13 @@
 - `mkdir '[Nombre del directorio]'`
   Crea una carpeta vacía dentro de la carpeta actual.
 - `echo > '[Nombre del archivo]'` (**touch** debido a un alias configurado en mi perfil de PoweShell, aunque está disponible en otros OS)
+  
   Crea un archivo con el nombre indicado dentro de la carpeta actual.
 - `Remove-item '[Nombre de archivo/carpeta]'` (**rm** debido a un alias configurado en mi perfil de PoweShell)
+  
   Elimina el archivo o carpeta especificado de la carpeta actual.
 - `Invoke-Item .` (**oi** debido a un alias configurado en mi perfil de PoweShell)
+  
   Abrir el explorador de archivos en la carpeta actual.
 - `clear` | `cls`
   Limpiar la terminal.
