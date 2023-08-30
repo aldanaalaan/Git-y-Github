@@ -20,6 +20,13 @@ Además de aclarar que este repositorio de crea mientras **ESTOY APRENDIENDO** a
 ## Enlaces importantes
 
 [Página de Git](https://git-scm.com/)
+
 [Git en Github](https://github.com/git/git)
+
 [Github](https://github.com)
+
 [Curso de Git y Github by Brais Moure](https://youtu.be/3GymExBkKjE?si=7s43Sv-g88fOb3JV)
+	cd doc
+		cd o
+			cd g
+			cdC
