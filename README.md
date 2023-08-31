@@ -14,15 +14,13 @@ Además de aclarar que este repositorio de crea mientras **ESTOY APRENDIENDO** a
   [Comandos de Git](./Git/01.%20Comandos%20de%20Git.md)
   1. [Configuración de Git](./Git/Configuración%20de%20Git.md)
   2. [Introducción a Git](./Git/02.%20Introducción%20a%20Git.md)
-  3. [Git alias](./Git/03.%20Git%20alias.md)
-  4. [Gitignore](./Git/04.%20Gitignore.md)
+  3. [Primeros pasos](./03.%20Primeros%20pasos.md)
+  4. [Git alias](04.%20Git%20alias.md)
+  5. [Gitignore](05.%20Gitignore.md)
 
 ## Enlaces importantes
 
-[Página de Git](https://git-scm.com/)
-
-[Git en Github](https://github.com/git/git)
-
-[Github](https://github.com)
-
-[Curso de Git y Github by Brais Moure](https://youtu.be/3GymExBkKjE?si=7s43Sv-g88fOb3JV)
+- [Página de Git](https://git-scm.com/)
+- [Git en Github](https://github.com/git/git)
+- [Github](https://github.com)
+- [Curso de Git y Github by Brais Moure](https://youtu.be/3GymExBkKjE?si=7s43Sv-g88fOb3JV)
