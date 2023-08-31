@@ -1,5 +1,3 @@
-# Comandos de Git
-
 #shellComands
 
 ## Repositorio
@@ -9,7 +7,7 @@
 - `git status`
   Muestra el estado actual del repositorio.
 - `git add [Nombre de archivos]`
-  Añade los archivos especificados al área de preparación, para añadirlos a la base de datos próximamente (Usar '.' añadirá _todos_ los archivos)
+  Añade los archivos especificados al área de preparación, para añadirlos a la base de datos próximamente (Usar '`.`' añadirá _todos_ los archivos)
 - `git commit -m "[Mensaje]"`
   Agrega todas las modificaciones de los archivos preparados con `git add` a la base de datos y guarda el mensaje.
 - `git log`

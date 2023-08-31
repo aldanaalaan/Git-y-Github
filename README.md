@@ -6,6 +6,8 @@ Este es un repositorio donde almacenar mis notas mientras aprendo a usar Git y G
 
 Además de aclarar que este repositorio de crea mientras **ESTOY APRENDIENDO** a usarlo, aunque puede ser útil igualmente para alguien que empiece a aprenderlo.
 
+Para crear estas notas, estoy utilizando [Obsidian](https://obsidian.md/), que es una aplicación de notas que utiliza Markdown, así que se recomienda utilizar está sobre otras opciones como GitHub, VS Code u otras opciones.
+
 ## Índice
 
 [Comandos de terminal](./Comandos%20de%20la%20terminal%20común.md)
