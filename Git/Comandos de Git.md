@@ -21,3 +21,5 @@
     Para mostrar commits que contengan esa palabra.
 - `git restore [Nombre del archivo]`
   Indicando o no algún archivo en especifico, puedes restaurar los cambios no confirmados en un repositorio.
+- `git diff`
+  Nos permite visualizar las diferencias entre la versión actual del código, y el ultimo commit, sin la necesidad de crear un nuevo commit

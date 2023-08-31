@@ -11,12 +11,13 @@ Además de aclarar que este repositorio de crea mientras **ESTOY APRENDIENDO** a
 [Comandos de terminal](./Comandos%20de%20la%20terminal%20común.md)
 
 ### Git
-  [Comandos de Git](./Git/01.%20Comandos%20de%20Git.md)
-  1. [Configuración de Git](./Git/Configuración%20de%20Git.md)
-  2. [Introducción a Git](./Git/02.%20Introducción%20a%20Git.md)
+  [Comandos de Git](./Git/Comandos%20de%20Git.md)
+  1. [Introducción a Git](./Git/01.%20Introducción%20a%20Git.md)
+  2. [Configuración de Git](./Git/02.%20Configuración%20de%20Git.md)
   3. [Primeros pasos](./03.%20Primeros%20pasos.md)
   4. [Git alias](04.%20Git%20alias.md)
   5. [Gitignore](05.%20Gitignore.md)
+  6. [Desplazamiento en una rama](./Git/06.%20Desplazamiento%20en%20una%20rama.md)
 
 ## Enlaces importantes
 
