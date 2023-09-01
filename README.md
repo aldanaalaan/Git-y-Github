@@ -20,6 +20,7 @@ Para crear estas notas, estoy utilizando [Obsidian](https://obsidian.md/), que e
   4. [Git alias](04.%20Git%20alias.md)
   5. [Gitignore](05.%20Gitignore.md)
   6. [Desplazamiento en una rama](./Git/06.%20Desplazamiento%20en%20una%20rama.md)
+  7. [Git reflog](./Git/07.%20Git%20reflog)
 
 ## Enlaces importantes
 

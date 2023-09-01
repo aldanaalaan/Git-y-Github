@@ -22,7 +22,6 @@
   Abrir el explorador de archivos en la carpeta actual.
 - `clear` | `cls`
   Limpiar la terminal.
-
 ## Extra
 
 - `code .`
