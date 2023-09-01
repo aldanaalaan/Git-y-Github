@@ -17,9 +17,9 @@ Para crear estas notas, estoy utilizando [Obsidian](https://obsidian.md/), que e
   1. [Introducción a Git](./Git/01.%20Introducción%20a%20Git.md)
   2. [Configuración de Git](./Git/02.%20Configuración%20de%20Git.md)
   3. [Primeros pasos](./03.%20Primeros%20pasos.md)
-  4. [Alias](07.%20Alias.md)
-  5. [Gitignore](05.%20Gitignore.md)
-  6. [Desplazamiento en una rama](./Git/06.%20Desplazamiento%20en%20una%20rama.md)
+  4. [Gitignore](04.%20Gitignore.md)
+  5. [Alias](05.%20Alias.md)
+  6. [Desplazamiento en una rama](06.%20Desplazamiento%20en%20una%20rama.md)
   7. [Reflog](07.%20Reflog.md)
 
 ## Enlaces importantes
