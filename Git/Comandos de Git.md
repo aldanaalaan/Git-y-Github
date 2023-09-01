@@ -1,5 +1,4 @@
 #shellComands
-
 ## Repositorio
 
 - `git init`
